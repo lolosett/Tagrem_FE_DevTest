@@ -1,0 +1,189 @@
+body {
+  background-color: #e6e6e6;
+  font-family: 'Lato', sans-serif;
+  margin: 2px
+}
+
+/*banner img*/
+.banner {
+  width: 100%;
+  border-bottom: solid;
+  border-color: white
+}
+
+.header {
+  margin-right: 35%;
+  text-align: left;
+  padding-left: 1%
+}
+
+.header-p {
+  font-size: large;
+  font-weight: 100
+}
+
+h1, h2, h3 {
+  color: #002b5a;
+  margin-bottom: 42px
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 200
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 200
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: normal
+}
+
+h1 > p {
+  color: #333;
+  font-family: 'Lato', sans-serif;;
+  font-size: 18px
+}
+
+/*state finder section*/
+.state-finder {
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-left: 75%;
+  margin-top: 13%;
+  margin-right: 2%;
+  position: absolute;
+  right: 2px;
+  top: 200px;
+  background-color: #f2f2f2;
+  border-radius: 2px;
+  text-align: left
+}
+
+.state-dropdown {
+  color: #002b5a;
+  font-size: 13px
+}
+
+/*middle "In Gravida" section*/
+.middle-section {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  width: 30%;
+  height: 50%
+}
+
+.middle-div{
+  background-color: #f2f2f2;
+  height: 50%;
+  padding-top: 2%;
+  margin-right: 10%;
+  margin-left: 10%
+}
+
+.middle-div > h2 {
+  margin-left: 0%
+}
+
+table {
+  margin-left: 7%
+}
+
+.learn-more-main {
+  background-color: #ffffff;
+  color: #002b5a;
+  font-size:14px;
+  border-radius:3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25),0 2px #fff inset;
+  padding: 10px
+}
+
+.lorem-text {
+  color: #002b5a;
+  margin-bottom: 5px;
+  font-size: 12px
+}
+
+
+
+p {
+  font-size: 13px;
+  color: #666666
+}
+
+select {
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25),0 2px #fff inset;
+  height: 20%
+}
+
+ul {
+  list-style-type: none
+}
+
+li {
+  display: inline-block;
+  width: 20%;
+  height: 80%;
+  margin: 1%;
+  margin-top: 5%;
+  background-color: white
+}
+
+
+
+/*products*/
+
+.product-section {
+  height: 30%;
+  background-color: #f2f2f2;
+  border-top: solid;
+  border-color: transparent;
+  padding-top: 10%;
+  margin-right: 10%;
+  margin-left: 10%
+}
+
+.product-title {
+  color: #002b5a;
+  font-size: 17px
+}
+
+
+.starting-at {
+  color: #4987ca;
+  font-size: 13px
+}
+
+.products-header {
+  border-top-style: solid;
+  border-top-color: #e6e6e6;
+  padding-top: 3%
+}
+
+.product-list {
+  text-align: left
+}
+
+.filter-price {
+  margin-left: 80%;
+  margin-top: 2%
+}
+
+.product-image {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  height: 80%;
+  width: 60%
+}
+
+.learn-more-product {
+  text-align: right;
+  font-size: 13px;
+  color: #666666
+}
